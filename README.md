@@ -6,7 +6,7 @@
 [![Documentation Status](https://readthedocs.org/projects/rf24/badge/?version=latest)](https://rf24.readthedocs.io/en/latest/?badge=latest)
 
 # RF Signal Sniffer using RF24L01+ and Arduiono Uno on Arduiono IDE  
-# See http://nRF24.github.io/RF24 for all documentation
+## See http://nRF24.github.io/RF24 for all documentation
 
 ## Having problems?
 
