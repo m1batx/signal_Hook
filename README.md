@@ -5,12 +5,9 @@
 [![RP2xxx build](https://github.com/nRF24/RF24/actions/workflows/build_rp2xxx.yml/badge.svg)](https://github.com/nRF24/RF24/actions/workflows/build_rp2xxx.yml)
 [![Documentation Status](https://readthedocs.org/projects/rf24/badge/?version=latest)](https://rf24.readthedocs.io/en/latest/?badge=latest)
 
+# RF Signal Sniffer using RF24L01+ and Arduiono Uno on Arduiono IDE  
 # See http://nRF24.github.io/RF24 for all documentation
 
 ## Having problems?
 
-Please read our **[solutions to common problems](COMMON_ISSUES.md)**. If that doesn't help, then open an issue describing your problem with as much detail as possible.
-
-### Want to contribute?
-
-Awesome! However, please check our [contributing guidelines](CONTRIBUTING.md) before opening a pull request.
+ Read **[solutions to common problems](COMMON_ISSUES.md)**. If that doesn't help, then open an issue describing your problem with as much detail as possible.
